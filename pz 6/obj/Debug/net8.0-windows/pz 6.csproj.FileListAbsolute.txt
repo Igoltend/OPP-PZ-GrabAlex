@@ -1,0 +1,16 @@
+D:\pz6\pz 6\bin\Debug\net8.0-windows\pz 6.exe
+D:\pz6\pz 6\bin\Debug\net8.0-windows\pz 6.deps.json
+D:\pz6\pz 6\bin\Debug\net8.0-windows\pz 6.runtimeconfig.json
+D:\pz6\pz 6\bin\Debug\net8.0-windows\pz 6.dll
+D:\pz6\pz 6\bin\Debug\net8.0-windows\pz 6.pdb
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz_6.Form1.resources
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.csproj.GenerateResource.cache
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.AssemblyInfoInputs.cache
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.AssemblyInfo.cs
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.csproj.CoreCompileInputs.cache
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.dll
+D:\pz6\pz 6\obj\Debug\net8.0-windows\refint\pz 6.dll
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.pdb
+D:\pz6\pz 6\obj\Debug\net8.0-windows\pz 6.genruntimeconfig.cache
+D:\pz6\pz 6\obj\Debug\net8.0-windows\ref\pz 6.dll
